@@ -24,6 +24,6 @@ npm run start
   连上自己新建的数据库（要改config.json）
   npx sequelize-cli model:generate --name DoubanMovie --attributes title:string,star:string,pic:string
   再运行
-  npm run start
+  npm run start-db
 
   
